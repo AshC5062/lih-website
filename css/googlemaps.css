@@ -1,0 +1,6 @@
+.container {
+    width: 780px;
+    background: url(Portfolio Assets/PortfolioUnderNavbg.png) no-repeat center top #000;
+    margin: 0 auto;
+    height: 100%; 
+}

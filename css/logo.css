@@ -1,0 +1,9 @@
+.imageContainer{
+        position: absolute;
+        width: 10px; /*the image width*/
+        height: 10px; /*the image height*/
+        left: 25%;
+        top: 25%;
+        margin-left: -10px; /*half the image width*/
+        margin-top: -10px; /*half the image height*/
+    }
